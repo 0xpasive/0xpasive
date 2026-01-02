@@ -21,7 +21,7 @@ I'm 0xpasive, a developer passionate about building innovative solutions.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xpasive&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xpasive&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
